@@ -38,7 +38,7 @@ header {
 
 .search:focus {
   outline: none;
-  background-color: var(white);
+  background-color: var(--secondary-color);
 }
 
 main {
@@ -96,7 +96,7 @@ main {
 }
 
 .overview {
-  background-color: #4a4a4a;
+  background-color: #190202;
   padding: 2rem;
   opacity: 0.8;
   position: absolute;
