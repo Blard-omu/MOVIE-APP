@@ -136,10 +136,11 @@ main {
 .back-top{
   display: flex;
   float: right;
+  margin-right: 2rem;
 }
 
 .back-top img{
-  width: 60%;
+  width: 30px;
 }
 
 @media (max-width: 678px){
