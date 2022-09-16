@@ -7,10 +7,10 @@
 <img src="./images/blardMovi-sm.png" alt="sm-screen" width="" height="">
 
 ## iPad/medium screens
-<img src="./images/blardMovi-sm.png" alt="md-screen" width="" height="">
+<img src="./images/blardMovi-md.png" alt="md-screen" width="" height="">
 
 ## Large screen
-<img src="./images/blardMovi-sm.png" alt="lg-screen" width="" height="">
+<img src="./images/blardMovi-lg.png" alt="lg-screen" width="" height="">
 
 ### View live
 <p>https://movie-app-psi-seven.vercel.app/</p>
