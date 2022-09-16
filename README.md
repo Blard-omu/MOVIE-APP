@@ -3,13 +3,15 @@
 
 
 ### The Views accross different screens <br>
-Mobile device
+
+
+### Mobile device
 <img src="./images/blardMovi-sm.png" alt="sm-screen" width="" height="">
-<br>
-iPad/medium screens
+
+### iPad/medium screens
 <img src="./images/blardMovi-md.png" alt="md-screen" width="" height="">
-<br>
-Large screen
+
+### Large screen
 <img src="./images/blardMovi-lg.png" alt="lg-screen" width="" height="">
 
 ### View live
