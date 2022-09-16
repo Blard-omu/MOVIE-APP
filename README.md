@@ -1,5 +1,5 @@
 ### BlardMovi
-<p>Movie-app is a simple movie site built with HTML, CSS, Javascript consuming popular movie API. You can search movie by Title, Keywords or Popular charater.</p>
+<p><b>BlardMovi</b> is a simple movie site built with HTML, CSS, Javascript consuming popular movies API. You can search movie by Title or Keywords.</p>
 
 
 ### The Views accross different screens <br>
