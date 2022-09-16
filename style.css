@@ -2,13 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
 
-:root {
-  --primary-color: #191817;
-  --secondary-color: #0305148d;
-}
 
 * {
   box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #191817;
+  --secondary-color: #0305148d;
 }
 
 body {
@@ -39,7 +40,6 @@ a{
 
 .logo-text2{
   color: #ad1a1ab8;
-  /* text-decoration: underline 5px #7378c5; */
   font-family: 'poppins';
   font-weight: 400;
 }
@@ -49,14 +49,13 @@ a{
 }
 
 .search {
-  background-color: white;
+  background-color: #eee;
   border: 2px solid var(--primary-color);
   border-radius: 50px;
   font-family: inherit;
   font-size: 1rem;
   padding: 0.5rem 1rem;
   color: #fff;
-  /* width: 300px; */
   width: 90%;
 }
 
@@ -77,7 +76,7 @@ main {
 }
 
 .movie {
-  width: 250px;
+  width: 220px;
   margin: 1rem;
   background-color: var(--secondary-color);
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
