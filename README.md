@@ -1,8 +1,7 @@
 ### MOVIE-APP
-<p>Movie-app is a simple movie site built with HTML, CSS, Javascript consuming popular movie API</p>
-<p>You can search movie by Title, Keywords or Popular charater.</p>
+<p>Movie-app is a simple movie site built with HTML, CSS, Javascript consuming popular movie API. You can search movie by Title, Keywords or Popular charater.</p>
 
-### The Views accross different screens 
+### ![align="center"]The Views accross different screens 
 ## Mobile device
 <img src="./images/blardMovi-sm.png" alt="sm-screen" width="" height="">
 
