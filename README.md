@@ -3,14 +3,14 @@
 <p>You can search movie by Title, Keywords or Popular charater.</p>
 
 ### The Views accross different screens 
-<h1>Mobile device</h1>
-<img src="./images/blardMovi-sm.png" alt="sm-screen" width="50%" height="100%">
+## Mobile device
+<img src="./images/blardMovi-sm.png" alt="sm-screen" width="" height="">
 
-<h1>iPad/medium screens </h1>
-<img src="./images/blardMovi-sm.png" alt="md-screen" width="80%" height="80%">
+## iPad/medium screens
+<img src="./images/blardMovi-sm.png" alt="md-screen" width="" height="">
 
-<h1>Large screen</h1>
-<img src="./images/blardMovi-sm.png" alt="lg-screen" width="200px" height="200px">
+## Large screen
+<img src="./images/blardMovi-sm.png" alt="lg-screen" width="" height="">
 
 ### View live
 <p>https://movie-app-psi-seven.vercel.app/</p>
