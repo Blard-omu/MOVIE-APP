@@ -3,7 +3,6 @@
 <p>You can search movie by Title, Keywords or Popular charater.</p>
 
 ### The Views accross different screens 
-<h1>Mobile device</h1>
 <img src="./images/blardMovi-sm.png" alt="sm-screen" width="50%" height="100%">
 
 <h1>iPad/medium screens </h1>
