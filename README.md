@@ -1,11 +1,6 @@
 ### BlardMovi
 <p><b>BlardMovi</b> is a simple movie site built with HTML, CSS, Javascript consuming popular movies API. You can search movie by Title or Keywords.</p>
 
-<<<<<<< HEAD
-### The Views accross different screens 
-<img src="./images/blardMovi-sm.png" alt="sm-screen" width="50%" height="100%">
-=======
->>>>>>> 58e85a8e1a6485a69790339413fce86ef5fabc9c
 
 ### The Views accross different screens <br>
 

@@ -63,5 +63,6 @@ form.addEventListener("submit", (e) => {
     search.value = "";
   } else {
     window.location.reload();
+    // return ("problem loading page...try again")
   }
 });
